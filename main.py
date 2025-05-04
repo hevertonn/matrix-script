@@ -2,6 +2,9 @@ r"""
 Autor: Heverton dos Santos Borges
 Data: 04/05/2025
 Descrição: Script para realizar operações em imagens, transformando-as em matrizes e retornando no formato PBM P1.
+Licença: MIT
+
+Versão do Python utilizada: 3.13.3
 
 Como executar:
     crie um ambiente virtual (opcional):
